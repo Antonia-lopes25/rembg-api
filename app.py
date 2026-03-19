@@ -35,14 +35,3 @@ def remove_bg():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8080)
-```
-
----
-
-**3 — Atualize o `requirements.txt`:**
-```
-flask
-rembg
-pillow
-onnxruntime
-gunicorn
