@@ -1,5 +1,5 @@
 flask
-rembg[gpu]
+rembg
 pillow
 onnxruntime
 gunicorn
